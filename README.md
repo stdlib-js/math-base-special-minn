@@ -41,7 +41,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import minn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minn@esm/index.mjs';
+import minn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minn@v0.0.1-esm/index.mjs';
 ```
 
 #### minn( \[x\[, y\[, ...args]]] )
@@ -107,7 +107,7 @@ var v = minn();
 <script type="module">
 
 import minstd from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-minstd-shuffle@esm/index.mjs';
-import minn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minn@esm/index.mjs';
+import minn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minn@v0.0.1-esm/index.mjs';
 
 var x;
 var y;
